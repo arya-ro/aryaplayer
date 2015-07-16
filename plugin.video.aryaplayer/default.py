@@ -26,7 +26,7 @@ def buildMenu():
         util.showError(ADDON_ID, 'Could not open URL %s to create menu' % (url))
 
 WEB_PAGE_BASE = 'http://arya.ro/xbmc/'
-ADDON_ID = 'plugin.video.aryaro'
+ADDON_ID = 'plugin.video.aryaplayer'
 
 parameters = util.parseParameters()
 if 'play' in parameters:
