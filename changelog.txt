@@ -1,5 +1,1 @@
-V1.1.6 Added icon support for channels
-V1.1.5 Minor bugfix
-V1.1.1 Background update
-V1.0.5 New dataformat
-V1.0.0 First edition
+V1. Test
